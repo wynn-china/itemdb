@@ -1,7 +1,0 @@
-language: generic
-
-deploy:
-  provider: script
-  script: bash update.sh
-  on:
-    branch: master
